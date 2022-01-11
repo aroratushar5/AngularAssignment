@@ -1,0 +1,18 @@
+<div class="grid-card" *ngIf="!isListView">
+    <img [src]="item.imageSource" />
+    <p>{{item.title}}</p>
+    <h4>{{item.price | currency}}</h4>
+    <p class="grid-card-info">
+        {{item.description}}
+    </p>
+</div>
+<div class="list-card" *ngIf="isListView">
+    <img [src]="item.imageSource" />
+    <div>
+        <h4>{{item.title}}</h4>
+        <p>
+            {{item.description}}
+        </p>
+        <h4>{{item.price | currency}}</h4>
+    </div>
+</div>

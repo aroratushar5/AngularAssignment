@@ -1,0 +1,28 @@
+.wrapper {
+  max-width: 100%;
+  overflow: hidden;
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  margin: 12px;;
+}
+
+.floating-banner {
+  white-space: nowrap;
+  overflow: hidden;
+  display: inline-block;
+  animation: floating-banner 4s linear infinite;
+}
+
+.floating-banner p {
+  display: inline-block;
+}
+
+@keyframes floating-banner {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+  100% {
+    transform: translate3d(-360%, 0, 0);
+  }
+}

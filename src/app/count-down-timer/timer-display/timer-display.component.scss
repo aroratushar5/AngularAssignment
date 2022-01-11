@@ -1,0 +1,15 @@
+.display-container {
+    height: 36vh;
+    width: 31vw;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 11px;
+}
+.count-down-timer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

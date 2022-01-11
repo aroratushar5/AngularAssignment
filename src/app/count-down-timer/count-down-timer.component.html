@@ -1,0 +1,16 @@
+<div class="timer-container">
+    <div class="flex-container">
+        <app-timer-display [resetClickEvent]="resetClickEvent" [startOrPauseClickEvent]="startOrPauseClickEvent"
+            [timerLimit]="timerLimit">
+        </app-timer-display>
+        <app-timer-input (onStartOrPauseClick)="onStartOrPauseClick($event)" (onResetClick)="onResetClick($event)"
+            (timerLimit)="onTimerLimit($event)">
+        </app-timer-input>
+    </div>
+    <div class="flex-container">
+        <app-timer-logs [resetClickEvent]="resetClickEvent" [startOrPauseClickEvent]="startOrPauseClickEvent">
+        </app-timer-logs>
+        <app-timer-stats [resetClickEvent]="resetClickEvent" [startOrPauseClickEvent]="startOrPauseClickEvent">
+        </app-timer-stats>
+    </div>
+</div>

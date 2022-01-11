@@ -1,0 +1,14 @@
+.timer-value {
+    height: 36vh;
+    width: 51vw;
+    border: 2px solid black;
+    margin: 11px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.action-btn {
+    cursor: pointer;
+    margin: 6px;
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "imageSource": "https://via.placeholder.com/600/24f355",
+        "title": "HP Pavilion Core i7 11th Gen",
+        "description": "HP NoteBook is a Windows 10 laptop with a 15.60-inch display that has a resolution of 1366x768 pixels. It is powered by a Core i5 processor and it comes with 8GB of RAM. The HP NoteBook packs 256GB of SSD storage. Graphics are powered by Intel HD Graphics 620.",
+        "price": 32254
+    },
+    {
+        "imageSource": "https://via.placeholder.com/600/92c952",
+        "title": "13‑inch MacBook Air",
+        "description": "MacBook Air is a thin, lightweight laptop from Apple. Often described as the same size as a pad of paper, the laptop has just one USB port, an audio headphone jack and built-in speakers and microphone. ",
+        "price": 18087
+    },
+    {
+        "imageSource": "https://via.placeholder.com/600/771796",
+        "title": "Lenovo IdeaPad 3 15TIL9",
+        "description": "Lenovo ThinkPad is a Windows 10 laptop with a 14.00-inch display that has a resolution of 1920x1080 pixels. It is powered by a Core i7 processor and it comes with 12GB of RAM. The Lenovo ThinkPad packs 256GB of SSD storage. Graphics are powered by Intel HD Graphics 520.",
+        "price": 10885
+    },
+    {
+        "imageSource": "https://via.placeholder.com/600/d32776",
+        "title": "Inspiron 15 6450",
+        "description": "Dell Inspiron 15 is a Windows 10 Home laptop with a 15.60-inch display that has a resolution of 1920x1080 pixels. It is powered by a Core i5 processor and it comes with 8GB of RAM. The Dell Inspiron 15 packs 1TB of HDD storage. Graphics are powered by AMD Radeon 530 Graphics.",
+        "price": 79290
+    },
+    {
+        "imageSource": "https://via.placeholder.com/600/f66b97",
+        "title": "Acer Predator Helios 400",
+        "description": "Acer Aspire is a Windows 10 laptop with a 15.60-inch display that has a resolution of 1920x1080 pixels. It is powered by a Core i7 processor and it comes with 8GB of RAM. The Acer Aspire packs 1TB of HDD storage. Graphics are powered by Intel HD Graphics 620.",
+        "price": 70600
+    },
+    {
+        "imageSource": "https://via.placeholder.com/600/56a8c2",
+        "title": "Microsoft Surface Laptop Go",
+        "description": "Microsoft's laptop computer. Introduced in 2017, the Surface Laptop was the fourth computer under Microsoft's Surface brand. ... Available with i5 or i7 CPUs, up to 1TB of solid state storage and 16GB of RAM, the Surface Laptop is ultra thin and weighs less than three pounds.",
+        "price": 43857
+    },
+    {
+        "imageSource": "https://via.placeholder.com/600/b0f7cc",
+        "title": "Microsoft Surface Laptop Go",
+        "description": "Microsoft's laptop computer. Introduced in 2017, the Surface Laptop was the fourth computer under Microsoft's Surface brand. ... Available with i5 or i7 CPUs, up to 1TB of solid state storage and 16GB of RAM, the Surface Laptop is ultra thin and weighs less than three pounds.",
+        "price": 87548
+    },
+    {
+        "imageSource": "https://via.placeholder.com/600/54176f",
+        "title": "Acer Predator Helios 300",
+        "description": "Acer Aspire is a Windows 10 laptop with a 15.60-inch display that has a resolution of 1920x1080 pixels. It is powered by a Core i7 processor and it comes with 8GB of RAM. The Acer Aspire packs 1TB of HDD storage. Graphics are powered by Intel HD Graphics 620.",
+        "price": 74980
+    },
+    {
+        "imageSource": "https://via.placeholder.com/600/51aa97",
+        "title": "Inspiron 15 5510",
+        "description": "Dell Inspiron 15 is a Windows 10 Home laptop with a 15.60-inch display that has a resolution of 1920x1080 pixels. It is powered by a Core i5 processor and it comes with 8GB of RAM. The Dell Inspiron 15 packs 1TB of HDD storage. Graphics are powered by AMD Radeon 530 Graphics.",
+        "price": 32477
+    },
+    {
+        "imageSource": "https://via.placeholder.com/600/810b14",
+        "title": "Lenovo IdeaPad 3 14ITL6",
+        "description": "Lenovo ThinkPad is a Windows 10 laptop with a 14.00-inch display that has a resolution of 1920x1080 pixels. It is powered by a Core i7 processor and it comes with 12GB of RAM. The Lenovo ThinkPad packs 256GB of SSD storage. Graphics are powered by Intel HD Graphics 520.",
+        "price": 75716
+    },
+    {
+        "imageSource": "https://via.placeholder.com/600/1ee8a4",
+        "title": "13‑inch MacBook Pro",
+        "description": "MacBook Pro is a thin, lightweight laptop from Apple. Often described as the same size as a pad of paper, the laptop has just one USB port, an audio headphone jack and built-in speakers and microphone. ",
+        "price": 74192
+    },
+    {
+        "imageSource": "https://via.placeholder.com/600/66b7d2",
+        "title": "HP Core i7 10th Gen",
+        "description": "HP NoteBook is a Windows 10 laptop with a 15.60-inch display that has a resolution of 1366x768 pixels. It is powered by a Core i5 processor and it comes with 8GB of RAM. The HP NoteBook packs 256GB of SSD storage. Graphics are powered by Intel HD Graphics 620.",
+        "price": 47880
+    }
+]

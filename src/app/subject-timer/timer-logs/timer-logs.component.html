@@ -1,0 +1,9 @@
+<div class="display-container">
+  <div class="log-item">
+    <p style="margin: 2px;" *ngFor="let item of timerLogs$ | async; let i=index">
+      <ng-container>
+        {{item.event}} {{item.dateTime | date: 'medium'}}
+      </ng-container>
+    </p>
+  </div>
+</div>

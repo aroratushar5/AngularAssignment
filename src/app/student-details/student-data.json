@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Roy",
+        "class": 9,
+        "section": "C",
+        "physics": 62,
+        "Chemistry": 71,
+        "Mathematics": 82
+    },
+    {
+        "name": "Naveen",
+        "class": 10,
+        "section": "D",
+        "physics": 56,
+        "Chemistry": 83,
+        "Mathematics": 92
+    },
+    {
+        "name": "Adeeti",
+        "class": 12,
+        "section": "B",
+        "physics": 83,
+        "Chemistry": 71,
+        "Mathematics": 66
+    },
+    {
+        "name": "Rajat",
+        "class": 6,
+        "section": "B",
+        "physics": 53,
+        "Chemistry": 54,
+        "Mathematics": 75
+    },
+    {
+        "name": "Mayank",
+        "class": 12,
+        "section": "C",
+        "physics": 78,
+        "Chemistry": 56,
+        "Mathematics": 68
+    },
+    {
+        "name": "Abhilash",
+        "class": 10,
+        "section": "A",
+        "physics": 75,
+        "Chemistry": 33,
+        "Mathematics": 60
+    }
+]
